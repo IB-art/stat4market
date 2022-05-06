@@ -534,6 +534,9 @@ h2{
 
 // education
 h2{
+	br{
+		display: none;
+	}
 	span{
 		position: relative;
 		&::after{

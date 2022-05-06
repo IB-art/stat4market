@@ -639,6 +639,9 @@
 
   .education h2 {
     max-width: 300px;
+    br{
+      display: block;
+    }
   }
 
   .education__text {
@@ -666,8 +669,8 @@
     height: 200px;
     right: -115px;
   }
-  .education h2 {
-    max-width: 264px;
-}
+//   .education h2 {
+//     max-width: 264px;
+// }
 
 }
